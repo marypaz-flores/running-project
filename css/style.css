@@ -1,0 +1,6 @@
+header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../images/running-woman.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
